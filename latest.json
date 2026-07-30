@@ -2,11 +2,11 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "version":  "2.2.0",
-    "publishedAt":  "2026-07-30T05:20:11Z",
+    "publishedAt":  "2026-07-30T05:22:00Z",
     "notes":  "Adds secure automatic launcher updates, SHA-256 installer verification, stable Windows upgrade identity, and launcher update controls.",
     "asset":  {
                   "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.0/Haven-Client-2.2.0.exe",
-                  "sha256":  "2B105E67061FC29FAA1E2BBC4C3183B248A0D9B59C7F90C74AC0AAF4040067D0",
+                  "sha256":  "32BF23DDDFC4E14FD336029837C448EEAAED19C6930F782EAA1991BC58185EB1",
                   "size":  57415680
               }
 }
