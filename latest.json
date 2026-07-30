@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.2",
-    "publishedAt":  "2026-07-30T05:27:03Z",
-    "notes":  "Adds secure automatic updates through GitHub API discovery, immutable release protection, SHA-256 verification, and stable Windows upgrades.",
+    "version":  "2.2.3",
+    "publishedAt":  "2026-07-30T05:30:14Z",
+    "notes":  "Adds secure automatic updates through GitHub API discovery, immutable releases, reproducible source-built payloads, SHA-256 verification, and stable Windows upgrades.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.2/Haven-Client-2.2.2.exe",
-                  "sha256":  "9B574765B2521FF7A1AA9BD26F6E0DE0ABE7FE4407884DBC323D557065DB6CAE",
+                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.3/Haven-Client-2.2.3.exe",
+                  "sha256":  "3A63A2C6CD32AD62F38CCA93B336A9D17416598E2A47F618C0B7D3D2C20E0511",
                   "size":  57415680
               }
 }
