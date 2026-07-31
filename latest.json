@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.3",
-    "publishedAt":  "2026-07-30T05:30:14Z",
-    "notes":  "Adds secure automatic updates through GitHub API discovery, immutable releases, reproducible source-built payloads, SHA-256 verification, and stable Windows upgrades.",
+    "version":  "2.2.5",
+    "publishedAt":  "2026-07-31T00:44:59Z",
+    "notes":  "Adds the direct Haven launch engine, Microsoft sign-in setup, Minecraft ownership verification, live game logs, and consistent Haven menu styling.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.3/Haven-Client-2.2.3.exe",
-                  "sha256":  "3A63A2C6CD32AD62F38CCA93B336A9D17416598E2A47F618C0B7D3D2C20E0511",
-                  "size":  57415680
+                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.5/Haven-Client-2.2.5.exe",
+                  "sha256":  "8454D1864781FEFE8F5368264BB316ECD8D585636EDD22190CB170629E045661",
+                  "size":  57448448
               }
 }
