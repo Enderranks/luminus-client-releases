@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.6",
-    "publishedAt":  "2026-07-31T01:42:13Z",
-    "notes":  "New Haven game-profile interface inspired by modern launchers, clearer version and loader selection, refined navigation and controls, and improved guidance when Minecraft Services requires application approval.",
+    "version":  "2.2.7",
+    "publishedAt":  "2026-07-31T02:51:50Z",
+    "notes":  "Complete Luminus rebrand with a redesigned launcher dashboard, new original artwork, smoother rounded interactions, profile controls, and automatic migration from Haven settings.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.6/Haven-Client-2.2.6.exe",
-                  "sha256":  "94915F65AD2D15C18667D39871E0443DCEF5A222030D7553C0D257C60B0EE89A",
-                  "size":  57452544
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.7/Luminus-Client-2.2.7.exe",
+                  "sha256":  "8A0E3EC63174B943E71246644AC11A222FCA003E08A0F415C800413279E0A8C9",
+                  "size":  59856896
               }
 }
