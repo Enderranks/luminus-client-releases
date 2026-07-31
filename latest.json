@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.7",
-    "publishedAt":  "2026-07-31T02:51:50Z",
-    "notes":  "Complete Luminus rebrand with a redesigned launcher dashboard, new original artwork, smoother rounded interactions, profile controls, and automatic migration from Haven settings.",
+    "version":  "2.2.8",
+    "publishedAt":  "2026-07-31T03:13:02Z",
+    "notes":  "A major launcher dashboard redesign closely matching the Luminus concept: expanded navigation, cinematic hero, visual profiles, server actions, live account and readiness rail, smoother rounded interactions, and a new launch dock.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.7/Luminus-Client-2.2.7.exe",
-                  "sha256":  "8A0E3EC63174B943E71246644AC11A222FCA003E08A0F415C800413279E0A8C9",
-                  "size":  59856896
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.8/Luminus-Client-2.2.8.exe",
+                  "sha256":  "6A3DE498FB9B90831C9ABDAFDC5E5736EC515CEA6162F7CC1C3DF8A554DB8E38",
+                  "size":  59865088
               }
 }
