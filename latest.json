@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.11",
-    "publishedAt":  "2026-07-31T03:53:42Z",
-    "notes":  "Centers the Luminus sidebar navigation icons, labels, premium panel, and footer controls within the wider navigation rail.",
+    "version":  "2.2.12",
+    "publishedAt":  "2026-07-31T04:02:35Z",
+    "notes":  "Embeds the Luminus logo into the Windows installer, launcher executable, desktop shortcuts, taskbar, and Alt-Tab window icon using a generated multi-resolution Windows icon.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.11/Luminus-Client-2.2.11.exe",
-                  "sha256":  "DF636F20EF11169F251E7496DA6B62CBE436082A97652D2A7614822EF37D1B60",
-                  "size":  59865088
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.12/Luminus-Client-2.2.12.exe",
+                  "sha256":  "7866E78A2C4EDDC50B2DBA1C4CDA61F3A552921C5F4A3B40C0A951061610F191",
+                  "size":  59889152
               }
 }
