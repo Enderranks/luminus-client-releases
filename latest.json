@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.0",
-    "publishedAt":  "2026-07-31T04:26:02Z",
-    "notes":  "Adds launcher-controlled module selection with 23 working toggles, bulk controls, shared in-game settings, and safe preference migration.",
+    "version":  "2.3.1",
+    "publishedAt":  "2026-07-31T14:09:03Z",
+    "notes":  "Adds a black rounded tile and subtle outline around the Luminus Windows executable and taskbar icon.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.0/Luminus-Client-2.3.0.exe",
-                  "sha256":  "830A668AFFF50DD33930AFFEFAA8E421E3E19B3EF2A811FD550C577B65C0B302",
-                  "size":  59897344
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.1/Luminus-Client-2.3.1.exe",
+                  "sha256":  "ECF6E6C8ECC47E2F23098CCCE270A3AB14CE91CA16FFCF9BE8B79319D63D85E8",
+                  "size":  59916288
               }
 }
