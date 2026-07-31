@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.5",
-    "publishedAt":  "2026-07-31T00:44:59Z",
-    "notes":  "Adds the direct Haven launch engine, Microsoft sign-in setup, Minecraft ownership verification, live game logs, and consistent Haven menu styling.",
+    "version":  "2.2.6",
+    "publishedAt":  "2026-07-31T01:42:13Z",
+    "notes":  "New Haven game-profile interface inspired by modern launchers, clearer version and loader selection, refined navigation and controls, and improved guidance when Minecraft Services requires application approval.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.5/Haven-Client-2.2.5.exe",
-                  "sha256":  "8454D1864781FEFE8F5368264BB316ECD8D585636EDD22190CB170629E045661",
-                  "size":  57448448
+                  "url":  "https://github.com/Enderranks/haven-client-releases/releases/download/v2.2.6/Haven-Client-2.2.6.exe",
+                  "sha256":  "94915F65AD2D15C18667D39871E0443DCEF5A222030D7553C0D257C60B0EE89A",
+                  "size":  57452544
               }
 }
