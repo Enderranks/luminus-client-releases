@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.10",
-    "publishedAt":  "2026-07-31T03:29:29Z",
-    "notes":  "Widens the Luminus launcher navigation rail and aligns the navigation, Luminus+, and footer controls for a roomier, more balanced sidebar.",
+    "version":  "2.2.11",
+    "publishedAt":  "2026-07-31T03:53:42Z",
+    "notes":  "Centers the Luminus sidebar navigation icons, labels, premium panel, and footer controls within the wider navigation rail.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.10/Luminus-Client-2.2.10.exe",
-                  "sha256":  "74245823FB940FD43134869F40A47C688F2E767AE22164B6988A9BC08DCC59A6",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.11/Luminus-Client-2.2.11.exe",
+                  "sha256":  "DF636F20EF11169F251E7496DA6B62CBE436082A97652D2A7614822EF37D1B60",
                   "size":  59865088
               }
 }
