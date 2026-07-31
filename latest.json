@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.1",
-    "publishedAt":  "2026-07-31T14:09:03Z",
-    "notes":  "Adds a black rounded tile and subtle outline around the Luminus Windows executable and taskbar icon.",
+    "version":  "2.3.2",
+    "publishedAt":  "2026-07-31T14:20:26Z",
+    "notes":  "Adds an animated Luminus startup sequence with logo scale-in, purple glow, wordmark reveal, loading sweep, and a smooth handoff to the launcher.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.1/Luminus-Client-2.3.1.exe",
-                  "sha256":  "ECF6E6C8ECC47E2F23098CCCE270A3AB14CE91CA16FFCF9BE8B79319D63D85E8",
-                  "size":  59916288
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.2/Luminus-Client-2.3.2.exe",
+                  "sha256":  "352D2CA55E5B0EE5E984C7FECEDE507E0F5E31398DE088880F4D405848F7E733",
+                  "size":  59920384
               }
 }
