@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.12",
-    "publishedAt":  "2026-07-31T04:02:35Z",
-    "notes":  "Embeds the Luminus logo into the Windows installer, launcher executable, desktop shortcuts, taskbar, and Alt-Tab window icon using a generated multi-resolution Windows icon.",
+    "version":  "2.3.0",
+    "publishedAt":  "2026-07-31T04:26:02Z",
+    "notes":  "Adds launcher-controlled module selection with 23 working toggles, bulk controls, shared in-game settings, and safe preference migration.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.12/Luminus-Client-2.2.12.exe",
-                  "sha256":  "7866E78A2C4EDDC50B2DBA1C4CDA61F3A552921C5F4A3B40C0A951061610F191",
-                  "size":  59889152
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.0/Luminus-Client-2.3.0.exe",
+                  "sha256":  "830A668AFFF50DD33930AFFEFAA8E421E3E19B3EF2A811FD550C577B65C0B302",
+                  "size":  59897344
               }
 }
