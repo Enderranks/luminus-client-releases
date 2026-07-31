@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.9",
-    "publishedAt":  "2026-07-31T03:18:42Z",
-    "notes":  "Refines the Luminus launcher sidebar with balanced spacing, a full Luminus+ client panel, compact launcher utilities, and improved behavior across supported window heights.",
+    "version":  "2.2.10",
+    "publishedAt":  "2026-07-31T03:29:29Z",
+    "notes":  "Widens the Luminus launcher navigation rail and aligns the navigation, Luminus+, and footer controls for a roomier, more balanced sidebar.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.9/Luminus-Client-2.2.9.exe",
-                  "sha256":  "F8D9BB015FBB1B84DF0BBBD4F70B26BD47AA789878AAE6AD77FE0F23D6F0A374",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.10/Luminus-Client-2.2.10.exe",
+                  "sha256":  "74245823FB940FD43134869F40A47C688F2E767AE22164B6988A9BC08DCC59A6",
                   "size":  59865088
               }
 }
