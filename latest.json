@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.2.8",
-    "publishedAt":  "2026-07-31T03:13:02Z",
-    "notes":  "A major launcher dashboard redesign closely matching the Luminus concept: expanded navigation, cinematic hero, visual profiles, server actions, live account and readiness rail, smoother rounded interactions, and a new launch dock.",
+    "version":  "2.2.9",
+    "publishedAt":  "2026-07-31T03:18:42Z",
+    "notes":  "Refines the Luminus launcher sidebar with balanced spacing, a full Luminus+ client panel, compact launcher utilities, and improved behavior across supported window heights.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.8/Luminus-Client-2.2.8.exe",
-                  "sha256":  "6A3DE498FB9B90831C9ABDAFDC5E5736EC515CEA6162F7CC1C3DF8A554DB8E38",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.2.9/Luminus-Client-2.2.9.exe",
+                  "sha256":  "F8D9BB015FBB1B84DF0BBBD4F70B26BD47AA789878AAE6AD77FE0F23D6F0A374",
                   "size":  59865088
               }
 }
