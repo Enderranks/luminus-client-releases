@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.28",
-    "publishedAt":  "2026-08-02T16:36:32Z",
-    "notes":  "Adds a Modrinth-powered modpack selector with search, Minecraft version filters, pack details, checksum-verified downloads, and a dedicated Luminus modpack library.",
+    "version":  "2.3.29",
+    "publishedAt":  "2026-08-02T16:51:19Z",
+    "notes":  "Expands the Modrinth browser to mods, modpacks, resource packs, and shaders; adds Minecraft version and loader filters; organizes verified downloads by content type; and adds paginated Load More browsing across the full catalog.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.28/Luminus-2.3.28-Setup.exe",
-                  "sha256":  "FDB7E7DD19941FD065422080B89707F0F957C3E922A1A8D768D8ECA3C172EBE2",
-                  "size":  61812736
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.29/Luminus-2.3.29-Setup.exe",
+                  "sha256":  "C1F37515FB207FD44E5F1C5275AAD061506B7D4F7D662AF679907288BC7F30E1",
+                  "size":  61816832
               }
 }
