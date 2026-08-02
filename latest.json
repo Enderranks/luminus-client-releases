@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.8",
-    "publishedAt":  "2026-08-02T01:53:46Z",
-    "notes":  "Luminus 2.3.8 expands title artwork across Epic, EA, and other non-Steam libraries using local launcher art and safe exact-title matching against Steam public artwork. It also improves Epic catalog namespace detection.",
+    "version":  "2.3.9",
+    "publishedAt":  "2026-08-02T02:03:34Z",
+    "notes":  "Luminus 2.3.9 fixes game artwork escaping the library scroll viewport. Cards now remain clipped below the page heading and above the fixed footer at every scroll position.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.8/Luminus-2.3.8-Setup.exe",
-                  "sha256":  "47A8B1F88307D98F33E90A2F925633E2AFC46B7277CD1D55A498C7963D3A08EB",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.9/Luminus-2.3.9-Setup.exe",
+                  "sha256":  "E42FD48F96FEA06B3065D6F4CFF6EB8300B881DE0DCC020BF698BFE31C185550",
                   "size":  61755392
               }
 }
