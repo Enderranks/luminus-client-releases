@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.21",
-    "publishedAt":  "2026-08-02T04:33:47Z",
-    "notes":  "Adds a system-wide Shift + F7 overlay toggle and changes the overlay to a transparent Game Bar-style canvas. Luminus widgets float over games or the desktop, can be dragged, and remain individually customizable.",
+    "version":  "2.3.22",
+    "publishedAt":  "2026-08-02T04:42:25Z",
+    "notes":  "Refocuses the Shift + F7 overlay on social features only: chat, friends and presence, party controls, social notifications, and a temporary-server credits popup. Cloud-dependent actions are clearly marked until the Kyvera API is connected.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.21/Luminus-2.3.21-Setup.exe",
-                  "sha256":  "207163B40B672C3677D4F6F91263FF6A071D7A3BBE996F1E3BB55BC7FC67EDC6",
-                  "size":  61784064
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.22/Luminus-2.3.22-Setup.exe",
+                  "sha256":  "F03C2CB85FEF0296B97DB533900BBF366FA67A5173FA8D82B6C78D08DEEC31B9",
+                  "size":  61788160
               }
 }
