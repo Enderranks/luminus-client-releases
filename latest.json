@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.9",
-    "publishedAt":  "2026-08-02T02:03:34Z",
-    "notes":  "Luminus 2.3.9 fixes game artwork escaping the library scroll viewport. Cards now remain clipped below the page heading and above the fixed footer at every scroll position.",
+    "version":  "2.3.10",
+    "publishedAt":  "2026-08-02T02:33:43Z",
+    "notes":  "Adds official Minecraft creeper branding to the Minecraft library card, displays the full logo without cropping, and fixes the doubled square outlines so game cards keep clean rounded borders while scrolling.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.9/Luminus-2.3.9-Setup.exe",
-                  "sha256":  "E42FD48F96FEA06B3065D6F4CFF6EB8300B881DE0DCC020BF698BFE31C185550",
-                  "size":  61755392
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.10/Luminus-2.3.10-Setup.exe",
+                  "sha256":  "FEE695B2597F5C52010A99DE2FA766C761225D33866B5ED376C3D0700D82E564",
+                  "size":  61759488
               }
 }
