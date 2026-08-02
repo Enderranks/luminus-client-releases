@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.36",
-    "publishedAt":  "2026-08-02T18:02:31Z",
-    "notes":  "Fixes the buggy taskbar and maximize animations. Luminus now animates a lightweight visual snapshot while the real interface remains unchanged, eliminating repeated layout work, jumping controls, and broken window positioning.",
+    "version":  "2.3.37",
+    "publishedAt":  "2026-08-02T18:07:47Z",
+    "notes":  "Fixes the taskbar animation after direct visual inspection. The animated snapshot is now fully opaque, eliminating the doubled launcher and desktop bleed-through visible during restore. The real interface remains unchanged throughout the transition.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.36/Luminus-2.3.36-Setup.exe",
-                  "sha256":  "8F1A09FEA1F515E8CB28871DD48AC0EC4742ABF11ABC20C7CD00AF3824644DA7",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.37/Luminus-2.3.37-Setup.exe",
+                  "sha256":  "327862C02971E3EC9D360DDC2C11490A9DB6E523C045E76D3CC42042FA57A3D9",
                   "size":  61857792
               }
 }
