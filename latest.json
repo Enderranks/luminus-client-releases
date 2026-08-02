@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.30",
-    "publishedAt":  "2026-08-02T17:19:07Z",
-    "notes":  "Adds one-click Modrinth modpack setup. Luminus now reads each pack declaration, downloads the exact Minecraft version, installs the exact supported Forge or Fabric loader, verifies pack files, applies overrides, creates an isolated instance, and automatically obtains the required managed Java runtime when needed.",
+    "version":  "2.3.31",
+    "publishedAt":  "2026-08-02T17:27:45Z",
+    "notes":  "Adds a dedicated Instances window for installed Modrinth packs. Users can see exact Minecraft, loader, and Java versions, launch any instance, open its folder, or safely delete it with confirmation. Instance discovery and deletion now have automated safety tests.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.30/Luminus-2.3.30-Setup.exe",
-                  "sha256":  "CED983A81D2D4E166BC9E3AF8EB5FB8D861F59C9DD4346ABAFBDEF11BF3A6BA5",
-                  "size":  61841408
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.31/Luminus-2.3.31-Setup.exe",
+                  "sha256":  "9BC6443AA4AB8B05F7670E140A28CC612B61D09AB337358DA3165ACB24EA3CB8",
+                  "size":  61845504
               }
 }
