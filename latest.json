@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.10",
-    "publishedAt":  "2026-08-02T02:33:43Z",
-    "notes":  "Adds official Minecraft creeper branding to the Minecraft library card, displays the full logo without cropping, and fixes the doubled square outlines so game cards keep clean rounded borders while scrolling.",
+    "version":  "2.3.11",
+    "publishedAt":  "2026-08-02T02:38:03Z",
+    "notes":  "Turns the footer version badge into the complete update control. It now detects a release, changes to UPDATE, downloads and verifies the installer when clicked, and then starts installation. Includes the Minecraft logo and rounded-border fixes from 2.3.10.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.10/Luminus-2.3.10-Setup.exe",
-                  "sha256":  "FEE695B2597F5C52010A99DE2FA766C761225D33866B5ED376C3D0700D82E564",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.11/Luminus-2.3.11-Setup.exe",
+                  "sha256":  "A9AFFA88E2F536AE6A40CF20699585577C0BDC7EEC3CF70C90D000B94598435A",
                   "size":  61759488
               }
 }
