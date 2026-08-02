@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.17",
-    "publishedAt":  "2026-08-02T04:03:16Z",
-    "notes":  "Hides the dedicated Minecraft tab from the left sidebar. Clicking the Minecraft library artwork now opens the complete Minecraft client page, while the page remains available to Minecraft options internally.",
+    "version":  "2.3.18",
+    "publishedAt":  "2026-08-02T04:07:24Z",
+    "notes":  "Minecraft Launch now asks whether to open the full Luminus client or launch the game directly. Clicking the Minecraft artwork continues to open the client dashboard.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.17/Luminus-2.3.17-Setup.exe",
-                  "sha256":  "4652F26E09C38107A48A5517A68E991ABC8DDAEF6FD6AAC59565802CD6EA6DA2",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.18/Luminus-2.3.18-Setup.exe",
+                  "sha256":  "E14FB9FB8917F10B81CDB45CA5A834FA1CACAEBF727F9C7D07488BFD1A269B25",
                   "size":  61767680
               }
 }
