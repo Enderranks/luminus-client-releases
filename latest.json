@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.24",
-    "publishedAt":  "2026-08-02T04:54:44Z",
-    "notes":  "Fixes clipping and overlap in the compact social overlay header. Uses a clean single row with Luminus Social, online friends, Credits, Edit, minimize, and close controls.",
+    "version":  "2.3.25",
+    "publishedAt":  "2026-08-02T04:59:36Z",
+    "notes":  "Fixes the temporary-server Credits button with an in-overlay floating card. Dragging the Luminus Social header now moves the entire compact overlay group while keeping individual panels movable.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.24/Luminus-2.3.24-Setup.exe",
-                  "sha256":  "15F8AF238CBBA55CD07BB0CCB7C12DB72ECD0BB83F9661B853E3DFBBAC9B9567",
-                  "size":  61788160
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.25/Luminus-2.3.25-Setup.exe",
+                  "sha256":  "DD2562F981E7E3F3C8DEAA891EB32832255CD9EF93C3F4A6687D1059D3D1E87F",
+                  "size":  61792256
               }
 }
