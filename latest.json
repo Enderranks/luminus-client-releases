@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.23",
-    "publishedAt":  "2026-08-02T04:49:29Z",
-    "notes":  "Makes the Shift + F7 social overlay a compact bottom-centered dock approximately 660 by 230 pixels. Increases transparency and condenses friends, party, and notification information into readable compact rows.",
+    "version":  "2.3.24",
+    "publishedAt":  "2026-08-02T04:54:44Z",
+    "notes":  "Fixes clipping and overlap in the compact social overlay header. Uses a clean single row with Luminus Social, online friends, Credits, Edit, minimize, and close controls.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.23/Luminus-2.3.23-Setup.exe",
-                  "sha256":  "41F942D14E61FF6DC969518B232E6C8328AC674F6DC229118CABB8CE3287DDF4",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.24/Luminus-2.3.24-Setup.exe",
+                  "sha256":  "15F8AF238CBBA55CD07BB0CCB7C12DB72ECD0BB83F9661B853E3DFBBAC9B9567",
                   "size":  61788160
               }
 }
