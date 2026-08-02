@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.22",
-    "publishedAt":  "2026-08-02T04:42:25Z",
-    "notes":  "Refocuses the Shift + F7 overlay on social features only: chat, friends and presence, party controls, social notifications, and a temporary-server credits popup. Cloud-dependent actions are clearly marked until the Kyvera API is connected.",
+    "version":  "2.3.23",
+    "publishedAt":  "2026-08-02T04:49:29Z",
+    "notes":  "Makes the Shift + F7 social overlay a compact bottom-centered dock approximately 660 by 230 pixels. Increases transparency and condenses friends, party, and notification information into readable compact rows.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.22/Luminus-2.3.22-Setup.exe",
-                  "sha256":  "F03C2CB85FEF0296B97DB533900BBF366FA67A5173FA8D82B6C78D08DEEC31B9",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.23/Luminus-2.3.23-Setup.exe",
+                  "sha256":  "41F942D14E61FF6DC969518B232E6C8328AC674F6DC229118CABB8CE3287DDF4",
                   "size":  61788160
               }
 }
