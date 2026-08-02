@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.4",
-    "publishedAt":  "2026-08-02T00:24:35Z",
-    "notes":  "Luminus 2.3.4 expands the desktop platform with automatic PC game discovery, a dynamic game library, improved Luminus branding, and verified update delivery.",
+    "version":  "2.3.5",
+    "publishedAt":  "2026-08-02T00:30:18Z",
+    "notes":  "Luminus 2.3.5 adds one-click launching from the detected game library. Steam and Epic use their official launch links, while Xbox, EA, Ubisoft, GOG, Riot, and Rockstar installations can launch through safely detected game executables.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.4/Luminus-2.3.4-Setup.exe",
-                  "sha256":  "428F087AF004916F51827BBF92228603E86345E78A718A92C91D9CAC166BBAB4",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.5/Luminus-2.3.5-Setup.exe",
+                  "sha256":  "403871C3229E7FD1A2A00A3677FEDA525657F623FECF8B0A32A3F47A7852D0E9",
                   "size":  61743104
               }
 }
