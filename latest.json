@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.26",
-    "publishedAt":  "2026-08-02T05:06:54Z",
-    "notes":  "Matches the distributed social overlay layout: Social bar at top, chat bottom-left, friends and party right, notifications bottom-right. Edit mode enables independent drag for every widget and bar; Done saves positions. Fixes notification text.",
+    "version":  "2.3.27",
+    "publishedAt":  "2026-08-02T05:15:17Z",
+    "notes":  "Replaces the standard Windows Minecraft launch prompt with a translucent Luminus dialog. Uses distinct purple Use Client, green Launch Directly, and red Cancel buttons for strong visibility.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.26/Luminus-2.3.26-Setup.exe",
-                  "sha256":  "7ED6CA498623B1FE6B8AD85C336F6EDF1D28A9993FE2B82478279CA50A0A5AFF",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.27/Luminus-2.3.27-Setup.exe",
+                  "sha256":  "60C7C9140B801E5B03421A1CDCC6F5045C148516F2638F2A6652535435F8F3A8",
                   "size":  61792256
               }
 }
