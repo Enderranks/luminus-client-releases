@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.31",
-    "publishedAt":  "2026-08-02T17:27:45Z",
-    "notes":  "Adds a dedicated Instances window for installed Modrinth packs. Users can see exact Minecraft, loader, and Java versions, launch any instance, open its folder, or safely delete it with confirmation. Instance discovery and deletion now have automated safety tests.",
+    "version":  "2.3.32",
+    "publishedAt":  "2026-08-02T17:33:59Z",
+    "notes":  "Adds three clear Minecraft launch choices. Luminus Client launches Minecraft with the active Luminus mods, cosmetics, and saved presets. Vanilla prepares and launches the clean non-Forge Minecraft profile. Modded opens the Instances window for installed Modrinth packs.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.31/Luminus-2.3.31-Setup.exe",
-                  "sha256":  "9BC6443AA4AB8B05F7670E140A28CC612B61D09AB337358DA3165ACB24EA3CB8",
-                  "size":  61845504
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.32/Luminus-2.3.32-Setup.exe",
+                  "sha256":  "29D00432E0C4C6225473D201ECABAC088624DA1ADDC59C6E6538DE8E0DDF9CBA",
+                  "size":  61849600
               }
 }
