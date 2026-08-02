@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.38",
-    "publishedAt":  "2026-08-02T18:24:21Z",
-    "notes":  "Replaces the custom Swing taskbar animation with a native Windows frame bridge. Minimize, restore, and maximize now use the Windows compositor directly, eliminating the pre-transition blink and scaled ghost window.",
+    "version":  "2.3.39",
+    "publishedAt":  "2026-08-02T20:45:19Z",
+    "notes":  "Fixes Modrinth installs that appeared frozen by adding live file progress and faster checksum-verified downloads. Adds WebP cover art and redesigned game-library-style instance cards.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.38/Luminus-2.3.38-Setup.exe",
-                  "sha256":  "F84CF4191D575FDFDA0175C46B11164AA480610DC595F17B3787057D62D3FB36",
-                  "size":  61861888
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.39/Luminus-2.3.39-Setup.exe",
+                  "sha256":  "BF2ECFDC80038FA47312996CFC582FC8429C25673DED2F35721AC1BAC07C6EB4",
+                  "size":  64761856
               }
 }
