@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.7",
-    "publishedAt":  "2026-08-02T01:43:54Z",
-    "notes":  "Luminus 2.3.7 adds title artwork throughout the game library. Steam games load and locally cache official header art, local cover images are supported for other libraries, and every game has a polished branded fallback when artwork is unavailable.",
+    "version":  "2.3.8",
+    "publishedAt":  "2026-08-02T01:53:46Z",
+    "notes":  "Luminus 2.3.8 expands title artwork across Epic, EA, and other non-Steam libraries using local launcher art and safe exact-title matching against Steam public artwork. It also improves Epic catalog namespace detection.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.7/Luminus-2.3.7-Setup.exe",
-                  "sha256":  "21DF68FC3AA0CAD1F6B0DA68EAF538A7D8843EAA950D58622F420814B7613329",
-                  "size":  61751296
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.8/Luminus-2.3.8-Setup.exe",
+                  "sha256":  "47A8B1F88307D98F33E90A2F925633E2AFC46B7277CD1D55A498C7963D3A08EB",
+                  "size":  61755392
               }
 }
