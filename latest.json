@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.6",
-    "publishedAt":  "2026-08-02T01:06:46Z",
-    "notes":  "Luminus 2.3.6 organizes detected games into publisher and game-library sections and introduces smaller four-column game cards. It also includes the one-click launch system from 2.3.5.",
+    "version":  "2.3.7",
+    "publishedAt":  "2026-08-02T01:43:54Z",
+    "notes":  "Luminus 2.3.7 adds title artwork throughout the game library. Steam games load and locally cache official header art, local cover images are supported for other libraries, and every game has a polished branded fallback when artwork is unavailable.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.6/Luminus-2.3.6-Setup.exe",
-                  "sha256":  "0EAA4080886DFCA82D99CB52084F55313E6479A748D3288894BD3F8DADA52F07",
-                  "size":  61747200
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.7/Luminus-2.3.7-Setup.exe",
+                  "sha256":  "21DF68FC3AA0CAD1F6B0DA68EAF538A7D8843EAA950D58622F420814B7613329",
+                  "size":  61751296
               }
 }
