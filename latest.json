@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.2",
-    "publishedAt":  "2026-07-31T14:20:26Z",
-    "notes":  "Adds an animated Luminus startup sequence with logo scale-in, purple glow, wordmark reveal, loading sweep, and a smooth handoff to the launcher.",
+    "version":  "2.3.4",
+    "publishedAt":  "2026-08-02T00:24:35Z",
+    "notes":  "Luminus 2.3.4 expands the desktop platform with automatic PC game discovery, a dynamic game library, improved Luminus branding, and verified update delivery.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.2/Luminus-Client-2.3.2.exe",
-                  "sha256":  "352D2CA55E5B0EE5E984C7FECEDE507E0F5E31398DE088880F4D405848F7E733",
-                  "size":  59920384
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.4/Luminus-2.3.4-Setup.exe",
+                  "sha256":  "428F087AF004916F51827BBF92228603E86345E78A718A92C91D9CAC166BBAB4",
+                  "size":  61743104
               }
 }
