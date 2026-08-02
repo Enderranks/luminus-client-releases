@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.13",
-    "publishedAt":  "2026-08-02T03:25:42Z",
-    "notes":  "Adds a Sort and Filter menu to the game library with All Games, Supported Multiplayer, Luminus Integrated, Ready to Launch, and Alphabetical A-Z views. Multiplayer uses a tested curated capability catalog so recognized single-player games stay hidden.",
+    "version":  "2.3.14",
+    "publishedAt":  "2026-08-02T03:32:49Z",
+    "notes":  "Extends the Minecraft multiplayer card design to every supported multiplayer game. Each recognized multiplayer card now has a Friends Playing counter, equal Launch and Options controls, and a game-specific menu for Play Together, friends, game folder, last played, platform, and settings.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.13/Luminus-2.3.13-Setup.exe",
-                  "sha256":  "97E107D3A6CE259FA6AFA66212FC69E9E8E918A91CEC1B31D148587B587E36B0",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.14/Luminus-2.3.14-Setup.exe",
+                  "sha256":  "CB9AED0516AFA1063C917228B10BFE8CB51F23169D4E29C4A68A0E3EC0496D1B",
                   "size":  61767680
               }
 }
