@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.11",
-    "publishedAt":  "2026-08-02T02:38:03Z",
-    "notes":  "Turns the footer version badge into the complete update control. It now detects a release, changes to UPDATE, downloads and verifies the installer when clicked, and then starts installation. Includes the Minecraft logo and rounded-border fixes from 2.3.10.",
+    "version":  "2.3.12",
+    "publishedAt":  "2026-08-02T02:51:57Z",
+    "notes":  "Splits the Minecraft card into equal Launch and Options actions. Adds a Minecraft dropdown with Play Together, Worlds, Mods, Last Played, Installed Version, and Settings. Adds a Friends Playing counter prepared for Kyvera Presence.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.11/Luminus-2.3.11-Setup.exe",
-                  "sha256":  "A9AFFA88E2F536AE6A40CF20699585577C0BDC7EEC3CF70C90D000B94598435A",
-                  "size":  61759488
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.12/Luminus-2.3.12-Setup.exe",
+                  "sha256":  "D1AF9BA257C716BC4D9AEDFABC3FE7B59E11B4803AD8BB3A2E8945CF634CE281",
+                  "size":  61763584
               }
 }
