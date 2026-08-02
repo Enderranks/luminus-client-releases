@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.15",
-    "publishedAt":  "2026-08-02T03:52:39Z",
-    "notes":  "Adds a gold star badge to fully supported games. Minecraft is currently the only fully supported Luminus title, so it is the only game that receives the star. Other titles remain unstarred until their complete integrations are finished.",
+    "version":  "2.3.16",
+    "publishedAt":  "2026-08-02T03:54:28Z",
+    "notes":  "Removes the black backing circle from the fully supported game marker. Minecraft now displays a clean standalone gold star with a subtle light-gold edge.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.15/Luminus-2.3.15-Setup.exe",
-                  "sha256":  "F9F6B12CDEEC39CA8518D057D1868B45D6A44301945D749DD01A645789B1723C",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.16/Luminus-2.3.16-Setup.exe",
+                  "sha256":  "2F1EC4E3698E49780ACC3A1EA9F6BBA7963F07DB3CCBC7F85CD8719C96680CB9",
                   "size":  61767680
               }
 }
