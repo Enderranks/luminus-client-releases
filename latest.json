@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.14",
-    "publishedAt":  "2026-08-02T03:32:49Z",
-    "notes":  "Extends the Minecraft multiplayer card design to every supported multiplayer game. Each recognized multiplayer card now has a Friends Playing counter, equal Launch and Options controls, and a game-specific menu for Play Together, friends, game folder, last played, platform, and settings.",
+    "version":  "2.3.15",
+    "publishedAt":  "2026-08-02T03:52:39Z",
+    "notes":  "Adds a gold star badge to fully supported games. Minecraft is currently the only fully supported Luminus title, so it is the only game that receives the star. Other titles remain unstarred until their complete integrations are finished.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.14/Luminus-2.3.14-Setup.exe",
-                  "sha256":  "CB9AED0516AFA1063C917228B10BFE8CB51F23169D4E29C4A68A0E3EC0496D1B",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.15/Luminus-2.3.15-Setup.exe",
+                  "sha256":  "F9F6B12CDEEC39CA8518D057D1868B45D6A44301945D749DD01A645789B1723C",
                   "size":  61767680
               }
 }
