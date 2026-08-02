@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.18",
-    "publishedAt":  "2026-08-02T04:07:24Z",
-    "notes":  "Minecraft Launch now asks whether to open the full Luminus client or launch the game directly. Clicking the Minecraft artwork continues to open the client dashboard.",
+    "version":  "2.3.19",
+    "publishedAt":  "2026-08-02T04:14:15Z",
+    "notes":  "Adds an optional movable always-on-top desktop overlay. Users can opt in under Settings and access Library, Client, Servers, direct Play, or hide the overlay over games and desktop apps.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.18/Luminus-2.3.18-Setup.exe",
-                  "sha256":  "E14FB9FB8917F10B81CDB45CA5A834FA1CACAEBF727F9C7D07488BFD1A269B25",
-                  "size":  61767680
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.19/Luminus-2.3.19-Setup.exe",
+                  "sha256":  "9663F1790714597AB20E33C87D71BA5249E8B4B61F88C1F399436696AB574D5E",
+                  "size":  61775872
               }
 }
