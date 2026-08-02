@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.19",
-    "publishedAt":  "2026-08-02T04:14:15Z",
-    "notes":  "Adds an optional movable always-on-top desktop overlay. Users can opt in under Settings and access Library, Client, Servers, direct Play, or hide the overlay over games and desktop apps.",
+    "version":  "2.3.20",
+    "publishedAt":  "2026-08-02T04:25:10Z",
+    "notes":  "Replaces the compact overlay with a full Luminus dashboard matching the launcher design. Adds saved per-user dashboard customization for hero, recent profiles, servers, account, status, friends, news, and launch controls.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.19/Luminus-2.3.19-Setup.exe",
-                  "sha256":  "9663F1790714597AB20E33C87D71BA5249E8B4B61F88C1F399436696AB574D5E",
-                  "size":  61775872
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.20/Luminus-2.3.20-Setup.exe",
+                  "sha256":  "F562A2B6989C5735A9ABC39A440DE62A4C59DBFEF43EA24188B172E92EDDCC82",
+                  "size":  61779968
               }
 }
