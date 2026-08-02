@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.25",
-    "publishedAt":  "2026-08-02T04:59:36Z",
-    "notes":  "Fixes the temporary-server Credits button with an in-overlay floating card. Dragging the Luminus Social header now moves the entire compact overlay group while keeping individual panels movable.",
+    "version":  "2.3.26",
+    "publishedAt":  "2026-08-02T05:06:54Z",
+    "notes":  "Matches the distributed social overlay layout: Social bar at top, chat bottom-left, friends and party right, notifications bottom-right. Edit mode enables independent drag for every widget and bar; Done saves positions. Fixes notification text.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.25/Luminus-2.3.25-Setup.exe",
-                  "sha256":  "DD2562F981E7E3F3C8DEAA891EB32832255CD9EF93C3F4A6687D1059D3D1E87F",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.26/Luminus-2.3.26-Setup.exe",
+                  "sha256":  "7ED6CA498623B1FE6B8AD85C336F6EDF1D28A9993FE2B82478279CA50A0A5AFF",
                   "size":  61792256
               }
 }
