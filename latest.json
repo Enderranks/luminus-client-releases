@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.32",
-    "publishedAt":  "2026-08-02T17:33:59Z",
-    "notes":  "Adds three clear Minecraft launch choices. Luminus Client launches Minecraft with the active Luminus mods, cosmetics, and saved presets. Vanilla prepares and launches the clean non-Forge Minecraft profile. Modded opens the Instances window for installed Modrinth packs.",
+    "version":  "2.3.33",
+    "publishedAt":  "2026-08-02T17:40:11Z",
+    "notes":  "Adds smooth custom-title-bar window animations. Minimize now fades and slides toward the taskbar, while maximize and restore use a responsive eased size-and-position transition.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.32/Luminus-2.3.32-Setup.exe",
-                  "sha256":  "29D00432E0C4C6225473D201ECABAC088624DA1ADDC59C6E6538DE8E0DDF9CBA",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.33/Luminus-2.3.33-Setup.exe",
+                  "sha256":  "60D3F6F1DE3FAE29D06F9CBF0B2305C63131B2C71489CA5A75D8E1F3FA798E1C",
                   "size":  61849600
               }
 }
