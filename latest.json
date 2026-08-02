@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.5",
-    "publishedAt":  "2026-08-02T00:30:18Z",
-    "notes":  "Luminus 2.3.5 adds one-click launching from the detected game library. Steam and Epic use their official launch links, while Xbox, EA, Ubisoft, GOG, Riot, and Rockstar installations can launch through safely detected game executables.",
+    "version":  "2.3.6",
+    "publishedAt":  "2026-08-02T01:06:46Z",
+    "notes":  "Luminus 2.3.6 organizes detected games into publisher and game-library sections and introduces smaller four-column game cards. It also includes the one-click launch system from 2.3.5.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.5/Luminus-2.3.5-Setup.exe",
-                  "sha256":  "403871C3229E7FD1A2A00A3677FEDA525657F623FECF8B0A32A3F47A7852D0E9",
-                  "size":  61743104
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.6/Luminus-2.3.6-Setup.exe",
+                  "sha256":  "0EAA4080886DFCA82D99CB52084F55313E6479A748D3288894BD3F8DADA52F07",
+                  "size":  61747200
               }
 }
