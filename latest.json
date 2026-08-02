@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.16",
-    "publishedAt":  "2026-08-02T03:54:28Z",
-    "notes":  "Removes the black backing circle from the fully supported game marker. Minecraft now displays a clean standalone gold star with a subtle light-gold edge.",
+    "version":  "2.3.17",
+    "publishedAt":  "2026-08-02T04:03:16Z",
+    "notes":  "Hides the dedicated Minecraft tab from the left sidebar. Clicking the Minecraft library artwork now opens the complete Minecraft client page, while the page remains available to Minecraft options internally.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.16/Luminus-2.3.16-Setup.exe",
-                  "sha256":  "2F1EC4E3698E49780ACC3A1EA9F6BBA7963F07DB3CCBC7F85CD8719C96680CB9",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.17/Luminus-2.3.17-Setup.exe",
+                  "sha256":  "4652F26E09C38107A48A5517A68E991ABC8DDAEF6FD6AAC59565802CD6EA6DA2",
                   "size":  61767680
               }
 }
