@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.27",
-    "publishedAt":  "2026-08-02T05:15:17Z",
-    "notes":  "Replaces the standard Windows Minecraft launch prompt with a translucent Luminus dialog. Uses distinct purple Use Client, green Launch Directly, and red Cancel buttons for strong visibility.",
+    "version":  "2.3.28",
+    "publishedAt":  "2026-08-02T16:36:32Z",
+    "notes":  "Adds a Modrinth-powered modpack selector with search, Minecraft version filters, pack details, checksum-verified downloads, and a dedicated Luminus modpack library.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.27/Luminus-2.3.27-Setup.exe",
-                  "sha256":  "60C7C9140B801E5B03421A1CDCC6F5045C148516F2638F2A6652535435F8F3A8",
-                  "size":  61792256
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.28/Luminus-2.3.28-Setup.exe",
+                  "sha256":  "FDB7E7DD19941FD065422080B89707F0F957C3E922A1A8D768D8ECA3C172EBE2",
+                  "size":  61812736
               }
 }
