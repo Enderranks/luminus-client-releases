@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.37",
-    "publishedAt":  "2026-08-02T18:07:47Z",
-    "notes":  "Fixes the taskbar animation after direct visual inspection. The animated snapshot is now fully opaque, eliminating the doubled launcher and desktop bleed-through visible during restore. The real interface remains unchanged throughout the transition.",
+    "version":  "2.3.38",
+    "publishedAt":  "2026-08-02T18:24:21Z",
+    "notes":  "Replaces the custom Swing taskbar animation with a native Windows frame bridge. Minimize, restore, and maximize now use the Windows compositor directly, eliminating the pre-transition blink and scaled ghost window.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.37/Luminus-2.3.37-Setup.exe",
-                  "sha256":  "327862C02971E3EC9D360DDC2C11490A9DB6E523C045E76D3CC42042FA57A3D9",
-                  "size":  61857792
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.38/Luminus-2.3.38-Setup.exe",
+                  "sha256":  "F84CF4191D575FDFDA0175C46B11164AA480610DC595F17B3787057D62D3FB36",
+                  "size":  61861888
               }
 }
