@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.12",
-    "publishedAt":  "2026-08-02T02:51:57Z",
-    "notes":  "Splits the Minecraft card into equal Launch and Options actions. Adds a Minecraft dropdown with Play Together, Worlds, Mods, Last Played, Installed Version, and Settings. Adds a Friends Playing counter prepared for Kyvera Presence.",
+    "version":  "2.3.13",
+    "publishedAt":  "2026-08-02T03:25:42Z",
+    "notes":  "Adds a Sort and Filter menu to the game library with All Games, Supported Multiplayer, Luminus Integrated, Ready to Launch, and Alphabetical A-Z views. Multiplayer uses a tested curated capability catalog so recognized single-player games stay hidden.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.12/Luminus-2.3.12-Setup.exe",
-                  "sha256":  "D1AF9BA257C716BC4D9AEDFABC3FE7B59E11B4803AD8BB3A2E8945CF634CE281",
-                  "size":  61763584
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.13/Luminus-2.3.13-Setup.exe",
+                  "sha256":  "97E107D3A6CE259FA6AFA66212FC69E9E8E918A91CEC1B31D148587B587E36B0",
+                  "size":  61767680
               }
 }
