@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.20",
-    "publishedAt":  "2026-08-02T04:25:10Z",
-    "notes":  "Replaces the compact overlay with a full Luminus dashboard matching the launcher design. Adds saved per-user dashboard customization for hero, recent profiles, servers, account, status, friends, news, and launch controls.",
+    "version":  "2.3.21",
+    "publishedAt":  "2026-08-02T04:33:47Z",
+    "notes":  "Adds a system-wide Shift + F7 overlay toggle and changes the overlay to a transparent Game Bar-style canvas. Luminus widgets float over games or the desktop, can be dragged, and remain individually customizable.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.20/Luminus-2.3.20-Setup.exe",
-                  "sha256":  "F562A2B6989C5735A9ABC39A440DE62A4C59DBFEF43EA24188B172E92EDDCC82",
-                  "size":  61779968
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.21/Luminus-2.3.21-Setup.exe",
+                  "sha256":  "207163B40B672C3677D4F6F91263FF6A071D7A3BBE996F1E3BB55BC7FC67EDC6",
+                  "size":  61784064
               }
 }
