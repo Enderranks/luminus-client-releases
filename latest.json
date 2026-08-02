@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.3.34",
-    "publishedAt":  "2026-08-02T17:48:56Z",
-    "notes":  "Smooths motion throughout the Luminus application with consistent time-based easing. This includes startup, page transitions, dialogs, button and card hover, navigation tabs, module toggles, progress changes, social popups, the desktop overlay, and window minimize/maximize/restore.",
+    "version":  "2.3.35",
+    "publishedAt":  "2026-08-02T17:53:21Z",
+    "notes":  "Adds a Discord-style taskbar transition. Minimizing shrinks and fades Luminus toward the bottom-center taskbar area. Clicking its taskbar icon expands the launcher back to the exact previous normal or maximized state.",
     "asset":  {
-                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.34/Luminus-2.3.34-Setup.exe",
-                  "sha256":  "E6E92ECE2CE1A8FAECCA087CE74AF0F9C64F8074DBC3D21997CD9355A1928389",
+                  "url":  "https://github.com/Enderranks/luminus-client-releases/releases/download/v2.3.35/Luminus-2.3.35-Setup.exe",
+                  "sha256":  "21B458FED3AF9EF51DC84C8071E95BA23B01A098AC51CC0F747A954CE6143268",
                   "size":  61857792
               }
 }
